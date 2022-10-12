@@ -1,5 +1,5 @@
 # Ongoing-projects
-Here you can see my ongoing projects, maybe some finished projects in there.
+Here you can see my try on Snake.
 
 Download the 3 files.
 Put all the files into 1 folder.
